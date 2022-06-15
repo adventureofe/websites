@@ -1,0 +1,7 @@
+* SIMPLE WEBPAGE
+
+By theadventureofe(John Gormley)
+
+The aim of this project is to demonstrate simple html and css for use in creating webpages
+
+the_adventure_of_e λ
