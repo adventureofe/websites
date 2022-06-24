@@ -1,13 +1,7 @@
-const Navbar: React.FC<{}> = () => {
-    return <h1 style={navbarStyle}> nav </h1>
-}
+import "./Navbar.css"
 
-const navbarStyle = {
-    backgroundcolour: '#F7F7F7',
-    colour: '#0000F'
-
+const Navbar: React.FC<{title: string}> = ({title}) => {
+    return <div className="navbar"> <h1> {title} </h1> </div>
 }
 
 export default Navbar
-
-

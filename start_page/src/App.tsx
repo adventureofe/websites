@@ -1,11 +1,11 @@
-import Header from "./components/Header"
 import Navbar from "./components/Navbar"
+import Searchbar from "./components/Searchbar"
 
 const App = () => {
     return(
       <div className = "container">
-          <Navbar />
-          <Header title="HOME" />
+          <Navbar title="NAVBAR" />
+          <Searchbar />
       </div>
     )
 }
