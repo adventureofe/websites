@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#titlebar {
+    background-color: #888888;
+}
+
+
+ul {
+    display: table;
+    background-color: #AAAAAA;
+    width: 100%;
+}
+
+li {
+    display: inline;
+    padding-left: 4px;
+    padding-right: 4px;
+}
